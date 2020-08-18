@@ -12,7 +12,8 @@
 ### 1. DFS : Depth First Search (깊이 우선 탐색)
    
 - 그래프에서 깊은 부분을 우선적으로 탐색하는 알고리즘.   
-- Stack 자료 구조를 이용. 후입선출 (LIFO : Last In, First Out)
+- Stack 자료 구조를 이용. 후입선출 (LIFO : Last In, First Out)   
+- 재귀 함수 이용시, 코드는 간결해지나 속도는 감소한다.
    
 > - 동작 과정
 > > 1. 탐색 시작 노드를 스택에 삽입하고 방문 처리를 한다.
